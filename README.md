@@ -12,7 +12,9 @@ Download the [package](https://github.com/arvaid/hungarian-international/release
 
 ## How to use
 
-It's recommended that you do not use it with any other keyboard layouts. Select the layout in the settings app under 'Language and Region' then remove any other layouts.
+Select the layout in the settings app under 'Language and Region' then remove any other layouts.
+
+It's best to not use it with any other keyboard layouts – because of some bugs with custom keyboard layouts on modern Windows. If you want a real solution, I recommend [wincompose](https://github.com/samhocevar/wincompose).
 
 Regular and double accented characters can be typed with the following combinations:
 
